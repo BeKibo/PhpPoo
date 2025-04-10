@@ -7,7 +7,7 @@ class Utilisateur
     public $dateInscription;
 
 
-    /**
+    /** 
      * Get the value of nom
      */
     public function getNom()
